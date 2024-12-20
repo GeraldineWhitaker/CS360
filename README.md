@@ -15,4 +15,4 @@ How did you test to ensure your code was functional? Why is this process importa
 Testing the app to ensure that each function works, such as creating a new login, then logging in and adding, deleting, and updating items. The process of testing the code is important because it is essential to ensure the product being released to users is 100% functional and does not have any bugs that need to be worked out. 
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience? A component of my mobile app that I was particulrly successful in demonstrating my knowledge, skills, and experience is the code for logging in. 
