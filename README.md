@@ -1,7 +1,7 @@
 # CS360
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The requiremens and goals of the app that I developed were to develope an inventory app for a warehouse where users can 
+The requiremens and goals of the app that I developed were to develop an inventory app for a warehouse where users can 
 - login or create a new login
 - display database information based on items in the warehouse where the user can create, delete, and update the items and the quanity in stock. 
 - Access settings to allow for SMS messaging notifications
